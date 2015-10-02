@@ -13,7 +13,7 @@ Persisches Sprachpaket für Magento Commerce - Sprachversion für Iran
 Paquete de idioma persa para Magento Commerce - Versión para Irán</description>
    <license>OSL</license>
    <license_uri>http://opensource.org/licenses/osl-3.0.php</license_uri>
-   <version>0.3.0</version>
+   <version>0.4.0</version>
    <stability>stable</stability>
    <notes>Translated by CODNITIVE</notes>
    <authors>
@@ -99,6 +99,71 @@ Paquete de idioma persa para Magento Commerce - Versión para Irán</description
          <target>magelocale</target>
          <target>magelocale</target>
          <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
       </target>
       <path>
          <path/>
@@ -131,6 +196,71 @@ Paquete de idioma persa para Magento Commerce - Versión para Irán</description
          <path>js/tiny_mce/themes/advanced/langs/fa.js</path>
          <path>js/tiny_mce/themes/advanced/langs/fa_dlg.js</path>
          <path>js/tiny_mce/themes/simple/langs/fa.js</path>
+         <path>fa_IR/Mage_Adminhtml.csv</path>
+         <path>fa_IR/Mage_AdminNotification.csv</path>
+         <path>fa_IR/Mage_Api.csv</path>
+         <path>fa_IR/Mage_Api2.csv</path>
+         <path>fa_IR/Mage_Authorizenet.csv</path>
+         <path>fa_IR/Mage_Backup.csv</path>
+         <path>fa_IR/Mage_Bundle.csv</path>
+         <path>fa_IR/Mage_Captcha.csv</path>
+         <path>fa_IR/Mage_Catalog.csv</path>
+         <path>fa_IR/Mage_CatalogInventory.csv</path>
+         <path>fa_IR/Mage_CatalogRule.csv</path>
+         <path>fa_IR/Mage_CatalogSearch.csv</path>
+         <path>fa_IR/Mage_Centinel.csv</path>
+         <path>fa_IR/Mage_Checkout.csv</path>
+         <path>fa_IR/Mage_Cms.csv</path>
+         <path>fa_IR/Mage_Compiler.csv</path>
+         <path>fa_IR/Mage_Connect.csv</path>
+         <path>fa_IR/Mage_Contacts.csv</path>
+         <path>fa_IR/Mage_Core.csv</path>
+         <path>fa_IR/Mage_Cron.csv</path>
+         <path>fa_IR/Mage_CurrencySymbol.csv</path>
+         <path>fa_IR/Mage_Customer.csv</path>
+         <path>fa_IR/Mage_Dataflow.csv</path>
+         <path>fa_IR/Mage_Directory.csv</path>
+         <path>fa_IR/Mage_Downloadable.csv</path>
+         <path>fa_IR/Mage_Eav.csv</path>
+         <path>fa_IR/Mage_GiftMessage.csv</path>
+         <path>fa_IR/Mage_GoogleAnalytics.csv</path>
+         <path>fa_IR/Mage_GoogleBase.csv</path>
+         <path>fa_IR/Mage_GoogleCheckout.csv</path>
+         <path>fa_IR/Mage_ImportExport.csv</path>
+         <path>fa_IR/Mage_Index.csv</path>
+         <path>fa_IR/Mage_Install.csv</path>
+         <path>fa_IR/Mage_Log.csv</path>
+         <path>fa_IR/Mage_Media.csv</path>
+         <path>fa_IR/Mage_Newsletter.csv</path>
+         <path>fa_IR/Mage_Oauth.csv</path>
+         <path>fa_IR/Mage_Page.csv</path>
+         <path>fa_IR/Mage_PageCache.csv</path>
+         <path>fa_IR/Mage_Paygate.csv</path>
+         <path>fa_IR/Mage_Payment.csv</path>
+         <path>fa_IR/Mage_Paypal.csv</path>
+         <path>fa_IR/Mage_PaypalUk.csv</path>
+         <path>fa_IR/Mage_Persistent.csv</path>
+         <path>fa_IR/Mage_Poll.csv</path>
+         <path>fa_IR/Mage_ProductAlert.csv</path>
+         <path>fa_IR/Mage_Rating.csv</path>
+         <path>fa_IR/Mage_Reports.csv</path>
+         <path>fa_IR/Mage_Review.csv</path>
+         <path>fa_IR/Mage_Rss.csv</path>
+         <path>fa_IR/Mage_Rule.csv</path>
+         <path>fa_IR/Mage_Sales.csv</path>
+         <path>fa_IR/Mage_SalesRule.csv</path>
+         <path>fa_IR/Mage_Sendfriend.csv</path>
+         <path>fa_IR/Mage_Shipping.csv</path>
+         <path>fa_IR/Mage_Sitemap.csv</path>
+         <path>fa_IR/Mage_Tag.csv</path>
+         <path>fa_IR/Mage_Tax.csv</path>
+         <path>fa_IR/Mage_Usa.csv</path>
+         <path>fa_IR/Mage_Weee.csv</path>
+         <path>fa_IR/Mage_Widget.csv</path>
+         <path>fa_IR/Mage_Wishlist.csv</path>
+         <path>fa_IR/Mage_XmlConnect.csv</path>
+         <path>fa_IR/Phoenix_Moneybookers.csv</path>
+         <path>fa_IR/template</path>
          <path>fa_IR/German_LocaleFa.csv</path>
          <path>de_DE/German_LocaleFa.csv</path>
          <path>en_US/German_LocaleFa.csv</path>
@@ -173,8 +303,139 @@ Paquete de idioma persa para Magento Commerce - Versión para Irán</description
          <type>file</type>
          <type>file</type>
          <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>dir</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
       </type>
       <include>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
          <include/>
          <include/>
          <include/>
@@ -212,6 +473,73 @@ Paquete de idioma persa para Magento Commerce - Versión para Irán</description
       </include>
       <ignore>
          <ignore/>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
          <ignore>#^.DS_Store#</ignore>
          <ignore>#^.DS_Store#</ignore>
          <ignore>#^.DS_Store#</ignore>
